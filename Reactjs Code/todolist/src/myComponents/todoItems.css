@@ -1,0 +1,33 @@
+.row{
+    display: flex;
+    width: 100%;
+    margin: auto;
+  }
+
+  button{
+    color: #ffffff;
+    font-weight: 400;
+    cursor: pointer;
+    background-color: rgb(255, 82, 82);
+    height: 30px;
+    width: 30px;
+    border: none;
+    margin-top: auto;
+    border-radius: 100%;
+    margin-bottom: auto;
+  }
+
+  p{
+      width: 80%;
+  }
+
+
+  input[type=checkbox]{
+      margin-left: -20px;
+      margin-right: 20px;
+  }
+
+  .isChecked{
+      text-decoration: line-through;
+      color: rgb(151, 151, 151);
+  }

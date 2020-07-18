@@ -1,0 +1,28 @@
+.addButton{
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 1.5em;
+    position: absolute;
+    left: 59%;
+    margin: auto;
+    cursor: pointer;
+    background-color: #4277AF;
+    width: 3%;
+    height: 39px;
+    text-align: center;
+}
+
+.addTextBox{
+    display: flex;
+    width: auto;
+    margin-left: 20px;
+}
+
+.addTextBox input{
+    padding: 10px;
+    width: 267px;
+    border: none;
+    font-size: 1em;
+    color: rgb(114, 114, 114);
+    background-color: #EBF1F6;
+}
